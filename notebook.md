@@ -51,32 +51,32 @@
 </details>
 
 <details>
-  <summary>Java</summary>
+  <summary>java</summary>
     A programming language, is not JavaScript.
 </details>
 
 <details>
-  <summary>Object-Orientated Language</summary>
+  <summary>object-Orientated Language</summary>
     Object-orientated programming is a way of writing code where you group related data and actions into reusable "objects," kind of like organizing tools into labeled boxes.
 </details>
 
 <details>
-  <summary>Procedural Languages</summary>
+  <summary>procedural Languages</summary>
     It focuses on procedures (functions) that operate on data in a linear top-down sequence.
 </details>
 
 <details>
-  <summary>Class</summary>
+  <summary>class</summary>
     (Java) Class is a blueprint that defines the structure and behavior (data and actions) of objects you can create from it.
 </details>
 
 <details>
-  <summary>Method</summary>
+  <summary>method</summary>
     (Java) A method is a block of code inside of a class that performs a specific task when it's called.
 </details>
 
 <details>
-  <summary>Console</summary>
+  <summary>console</summary>
     The area of a computer that notes from a program can be printed to.
 </details>
 
